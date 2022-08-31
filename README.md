@@ -207,8 +207,3 @@ Sequence job, that you use to specify a sequence of parallel jobs or server jobs
 ### - ( 7 )
 
 ![alt text](https://github.com/mohitkm2302/Datastage_Project/blob/main/PROJECT/pics/J7_UI.PNG)
-
-
-
-
-## Made with 💖 & 🔥 by MKM.
